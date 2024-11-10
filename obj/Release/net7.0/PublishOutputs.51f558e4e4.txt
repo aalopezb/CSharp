@@ -1,0 +1,5 @@
+C:\Users\hp\Desktop\Heroku\CSharp\publish\hello-world.exe
+C:\Users\hp\Desktop\Heroku\CSharp\publish\hello-world.dll
+C:\Users\hp\Desktop\Heroku\CSharp\publish\hello-world.deps.json
+C:\Users\hp\Desktop\Heroku\CSharp\publish\hello-world.runtimeconfig.json
+C:\Users\hp\Desktop\Heroku\CSharp\publish\hello-world.pdb
