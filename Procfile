@@ -1,1 +1,1 @@
-web: dotnet C#.dll
+web: dotnet hello-world.dll
